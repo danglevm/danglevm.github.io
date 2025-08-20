@@ -5,7 +5,7 @@ title: About me
 
 Hello, nice to meet you! I'm currently in my 3B term of Computer Engineering at the University of Waterloo. 
 
-I generally enjoy working on side projects with a high degree of architectural and theoretical complexity, such as my WIP Native x64 C++ Debugger or Custom Interpreter.
+I generally enjoy working on side projects with a high degree of architectural and theoretical complexity, such as my x64 Native C++ Debugger or Custom Interpreter.
 
 I am a team member doing embedded and FPGA programming with my design team at [UW Reality Labs](https://uwrealitylabs.com), where we are working with low-power Efinix Trion FPGAs to create a robust VR headset. 
 
