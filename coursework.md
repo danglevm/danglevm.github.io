@@ -3,8 +3,7 @@ layout: page
 title: Coursework
 ---
 
-**1A: Fall 2022**
-- ARTS 190 \- Communications in the Engineering Profession
+**1A: Fall 2022**- ARTS 190 \- Communications in the Engineering Profession
 - ECE 105 \- Classical Mechanics                          
 - ECE 150 \- Fundamentals of Programming                  
 - ECE 190 \- Engineering Profession and Practice          
