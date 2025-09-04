@@ -22,8 +22,10 @@ author:
 navbar-links:
   About: "aboutme"
   Experience: "/assets/img/W26_Resume-Ext.pdf"
-  Projects: 
-
+  Projects: "projects"
+  Coursework: "coursework"
+  Other: "other"
+  
   
 
 ################
